@@ -1,0 +1,14 @@
+[package]
+name = "ampere-libc"
+version = "0.1.0-rc0"
+authors = [ "Hyun Ho Bae" ]
+edition = "2021"
+description = "C Standard Library for Ampere OS"
+documentation = "https://docs.rs/ampere-libc"
+readme = "./README.md"
+repository = "https://github.com/TheRustUser/ampere-libc"
+license-file = "./LICENSE.md"
+keywords = [ "osdev" ]
+categories = [ "Operating System" ]
+
+[dependencies]
