@@ -1,5 +1,5 @@
 [package]
-name = "ampere-kernel"
+name = "ampere-libc"
 version = "0.1.0-rc0"
 authors = [ "Hyun Ho Bae" ]
 edition = "2021"
